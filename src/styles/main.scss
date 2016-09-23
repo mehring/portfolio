@@ -1,0 +1,35 @@
+@import 'body';
+@import 'header';
+
+.padded {
+    padding: 10px;
+}
+
+.padded-top {
+    padding-top: 10px;
+}
+
+.margin-bottom {
+    margin-bottom: 10px;
+}
+
+.center-align {
+    text-align: center;
+}
+
+.nomargins {
+    margin: 0;
+}
+
+.hover-cursor:hover {
+    cursor: pointer;
+}
+
+.noselect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
